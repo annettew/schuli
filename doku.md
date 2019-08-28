@@ -10,6 +10,9 @@ Es können auch Reports erstellt werden, so dass die beiden Systeme gut verglich
 ### Ziele Monitoring
 Die beiden Endgeräte sollen mit PRTG über einen Zeitraum von mindestens einer Woche überwacht werden, um genügend Daten für eine Auswertung zu sammeln.  
 Als Monitoringtool haben wir uns für PRTG entschieden, da dies ein marktführendes Tool ist, das eine sehr detaillierte Konfiguration erlaubt und umfangreiche Reports ausgibt, was eine Umfangreiche Auswertung erlaubt.
+
+Schuli = Homo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDQ2NjgwOV19
+eyJoaXN0b3J5IjpbLTE4MDU5NDA1ODEsMjEyNDQ2NjgwOV19
 -->
